@@ -10,7 +10,7 @@ I use linux, so the commands I have used are `os.system('clear')`.
 If you use Windows, change it to `os.system('cls')`.
 
 
-Simply run with 
+Simply run with:-
 
 Windows:
 
